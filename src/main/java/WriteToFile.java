@@ -2,8 +2,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.io.Writer;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class WriteToFile {
     public static void write(ArrayList<String> str) throws IOException {
